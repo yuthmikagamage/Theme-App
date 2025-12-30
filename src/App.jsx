@@ -20,7 +20,11 @@ function Task_23() {
         <div className="secondContainer">
           <div className="inputWrapper">
             <input placeholder="Search..." />
-            <img src="/search-symbol.png" alt="search" className="searchIcon" />
+            <img
+              src="./search-symbol.png"
+              alt="search"
+              className="searchIcon"
+            />
           </div>
         </div>
         <div className="thirdContainers">
